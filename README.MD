@@ -8,6 +8,6 @@ The image includes the following items:
 
 3. [TabbyXL 1.0.4](https://github.com/tabbydoc/tabbyxl/releases/tag/v1.0.4)
 
-4. [Dataset for the performance evaluation for TabbyXL](https://data.mendeley.com/datasets/ydcr7mcrtp/5)
+4. [Dataset for the performance evaluation of TabbyXL](https://data.mendeley.com/datasets/ydcr7mcrtp/5)
 
 You may read about the data and steps to reproduce this performance evaluation at [wiki](https://github.com/tabbydoc/tabbyxl/wiki/Performance-Evaluation) or in README.md file included in [the dataset](https://data.mendeley.com/datasets/ydcr7mcrtp/5).
